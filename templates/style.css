@@ -1,0 +1,80 @@
+html { 
+    margin: 0;    
+    height: auto;
+}
+
+body {
+    padding: 0.5em;
+    font-family: "adelle pe", sans-serif;
+    font-size: 36pt;
+    line-height: 1.4em;
+    color: #444; 
+}
+
+ul {
+    margin-top: 0em;
+    margin-bottom: 1em;
+}
+
+li {
+    padding-left: 0.5em;
+    margin-bottom: 0.2em;
+}
+
+section.level1 h1 {
+    font-size: 40pt;
+    margin-top: 0;
+    float: left;
+    color: #a1a9ad;
+}
+
+section.level1 .level2, section.level1 p {
+    margin-left: 700px;
+}
+
+section.level1 {
+    margin-bottom: 1.5em;
+}
+
+#chong-han-chua {    
+    margin-bottom: 3em;
+}
+
+#chong-han-chua h1 {
+    color: #444;
+    float: none;
+    margin-bottom: 0.5em;
+    font-size: 150%;
+}
+
+#chong-han-chua ul {
+    list-style: none;
+    padding: 0;
+}
+
+#chong-han-chua ul li {    
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    display: inline-block;
+    margin-bottom: 0em;
+}
+
+.detail {
+    margin-bottom: 0.7em;
+}
+
+.detail h2 {
+    font-size: 40pt; 
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+.detail p:first-of-type {
+    display: inline-block;
+    color: #a1a9ad;
+    margin-left: 1em;
+    margin-top: 0;
+    margin-bottom: 0em;
+}
