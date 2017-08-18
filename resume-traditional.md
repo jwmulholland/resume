@@ -4,36 +4,63 @@
 * fifthrevision.com
 
 # Hello
-I am a technologist with more than 7 years of experience managing and building for web and mobile. In my work, I'm passionate about creating meaningful impact using technology and thoughtful design.
+I am a technologist passionate about building products that people love. I have
+more than 9 years of experience managing and building web and mobile products.
 
 # Experience
-## Co-founder, Product and UI {.detail}
+
+## Self-employed {.detail}
+*Freelance, since May 2017*
+
+Worked as a design consultant for Escher Reality, a Y-Combinator backed startup 
+making Augmented Reality (AR) SDKs. In addition to creating the brand identity, 
+website and other collatorals, I designed single and multi user AR experiences 
+in Unity for mobile that showcases the technology.
+
+Designed and built animations for an LED matrix display (in Arduino) for a yet 
+to be launched IOT device. The animations were designed to feel fluid and organic
+with a goal of informing the user the current operational status of the device.
+
+Worked with a team of consultants to use human-centered design methods to design
+a business strategy for a major telecommunications company.
+ 
+## Co-founder, Product and Experience {.detail}
 *Echlo, since Jan 2016*
 
-* Echlo makes Pulse, an iOS app that uses location to make finding friends and going out easy.
-* The product was developed off a core idea and iterated on with a small group of users.
-* Designed all the brand, UI and UX elements and implemented the UI for the iOS app in Swift.
-* Created a reusable CSS library and implemented the web apps in React, and created all public facing websites the company and product.
+Worked on, as a co-founder, to develop a product based on the idea that location 
+data is always available on mobile and can be used to foster better relationships
+for the user. Created the product plan, market tested and iterated upon the initial
+hunch with a set of test users. Designed all the brand, UI and UX elements and
+implemented the Swift and web applications.
 
 ## Senior Program Manager {.detail}
 *Microsoft, Oct 2011 - Dec 2015*
 
-* Product owner for all compose related experiences in Outlook.com. I transitioned the core experience with the Hotmail to Outlook.com redesign, and modernized the files and attachment experiences. Collaborated with other mail teams to create a unified experience and helped define our design system for the web.
-* Product owner for power user features such as Sweep and Rules for automatically managing emails.
-* Performed human factors work such as app animations and interaction models for contact picker, keyboard shortcuts and message list selection.
-* Collaborated extensively with Research and Design to prototype opportunities for lightweight apps in the Office 365 ecosystem.
-* Product owner for Twist, a reply-based photo app targeted at teens, working across research, design, engineering, legal and marketing from start to launch.
+Worked as product owner for all compose related experiences in Outlook.com. I 
+transitioned the core experience with the Hotmail to Outlook.com redesign, and
+modernized the files and attachment experiences. Collaborated with other teams 
+to create a cross platform experience and helped define the design system for 
+Microsoft online services.
+
+Worked on shipping new and refining existing features for Outlook.com around user
+interface and email management. My approach typically includes defining key to 
+drive the design of the feature, and prototyping and refining it based on user
+feedback.
+
+Collaborated with Research and Design in Office 365 to identify and prototype 
+mobile application opportunities. The process involved foundational research,
+ideation, validation and prototyping. Among them, I worked as the product owner 
+for Twist, a photo communications app, leading the effort across research, design, 
+engineering, legal and marketing from start to launch.
 
 ## IT Specialist {.detail}
 *IBM, Aug 2008 - July 2010*
 
-* I joined IBM straight out of college and got a great education in software engineering there. I had an opportunity to work on both low level device drivers and user interfaces. Ultimately, an opportunity to both design and develop a customer facing app on a touch screen kiosk kindled my love for UX.
-
-## Freelancer {.detail}
-*Since 2000*
-
-* I've done various print, digital and web development work for organizations from amateur improv groups to startups.
-
+Joined IBM straight out of college and got a great start in software engineering.
+Worked on building both low level device drivers and user facing applications.
+My love for UX started here with an opportunity to both design and develop a 
+customer facing app deployed on a touch screen device.
+ 
 # Education
 
 ## Masters in Human-Computer Interaction {.detail}
@@ -51,4 +78,6 @@ I am a technologist with more than 7 years of experience managing and building f
 
 # Skills
 
-Ethnographic research, user-centered design, idea generation, wireframe development, visual design, usability testing, product management, prototyping (paper and digital), HTML+CSS, Javascript, Swift, Objective-C.
+Ethnographic research, human-centered design, idea generation, wireframe development, 
+visual design, usability testing, product management, prototyping (paper and digital), 
+HTML+CSS, Javascript, Swift, Objective-C, React.

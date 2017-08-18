@@ -1,14 +1,19 @@
 html { 
     margin: 0;    
-    height: auto;
+    height: auto;    
 }
 
 body {
     padding: 0.5em;
     font-family: "adelle pe", sans-serif;
-    font-size: 36pt;
+    font-size: 16pt;
     line-height: 1.4em;
-    color: #444; 
+    color: #444;
+}
+
+p {
+    margin-top: 0.3em;
+    margin-bottom: 1em;
 }
 
 ul {
@@ -22,18 +27,23 @@ li {
 }
 
 section.level1 h1 {
-    font-size: 40pt;
+    font-size: 1.25em;
     margin-top: 0;
+    margin-bottom: 0.3em;
     float: left;
-    color: #a1a9ad;
+    color: #a1a9ad;    
 }
 
-section.level1 .level2, section.level1 p {
-    margin-left: 700px;
+section.level1 .level2, section.level1>p {
+    margin-left: 350px;
 }
 
 section.level1 {
     margin-bottom: 1.5em;
+}
+
+section.level2 {
+    margin-bottom: 1em;
 }
 
 #chong-han-chua {    
@@ -45,6 +55,7 @@ section.level1 {
     float: none;
     margin-bottom: 0.5em;
     font-size: 150%;
+    display: block;
 }
 
 #chong-han-chua ul {
@@ -54,6 +65,10 @@ section.level1 {
 
 #chong-han-chua ul li {    
     padding: 0;
+}
+
+#experience .level2 {
+    margin-bottom: 1.8em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -66,9 +81,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .detail h2 {
-    font-size: 40pt; 
+    font-size: 1.25em; 
     margin-top: 0;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.25em;
 }
 
 .detail p:first-of-type {
