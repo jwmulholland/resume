@@ -12,77 +12,82 @@ CHONG HAN CHUA
 HELLO
 
 
-I am a technologist with more than 9 years of experience managing and
-building web and mobile products. I believe in human-centered and
-thoughtful approaches to building better products.
+I am a design technologist passionate about building products that
+people love. I have more than 9 years of experience managing and
+building web and mobile products.
 
 
 
 EXPERIENCE
 
 
+Self-employed
+
+_Freelance, since May 2017_
+
+Worked as a design consultant for Escher Reality, a Y-Combinator backed
+start-up making Augmented Reality (AR) SDKs. Besides creating the brand
+identity, website and other collateral, I designed single and multiuser
+AR experiences for mobile using Unity showcasing the company's
+technology.
+
+Designed and built animations for an LED matrix display (in Arduino) for
+a start-up working on a yet-to-be launched Internet of Things (IOT)
+device. Worked with a team of consultants to use human-centered design
+methods to design a business strategy for a major US telecommunications
+company.
+
+
 Co-founder, Product and Experience
 
 _Echlo, since Jan 2016_
 
-We believe that creating new opportunities to connect with friends help
-foster better relationships. I was interested in a small agile team
-setting as a means to find product market fit for new location-based
-technologies.
-
--   Created a product plan and roadmap based on the initial idea, and
-    performed product testing and validation over a small set of beta
-    users.
--   Designed all the brand, UI and UX elements and implemented the UI
-    for the iOS app in Swift.
--   Created a reusable CSS library and implemented the web apps in
-    React, and created all public facing websites the company and
-    product.
+Co-founded and developed a product on the idea that location data is
+always available on mobile and can be used to help people find and meet
+up with friends and family more easily and frequently. Created the
+product plan, market tested and iterated with a set of test users.
+Designed all the brand, UI and UX elements and implemented the iOS and
+web applications.
 
 
 Senior Program Manager
 
 _Microsoft, Oct 2011 - Dec 2015_
 
-I leaned heavily onto human-centered design methods to conceive,
-prototype and build improvements to existing well-loved products and to
-explore new product opportunities for the company.
+Product owner for all Compose-related experiences in Outlook.com. I
+updated and improved the core experience with the Hotmail to Outlook.com
+redesign, modernized file attachments, rich text editor and added
+OneDrive integration. Collaborated with other teams to create a cross
+platform experience and to define the design system for Microsoft online
+services.
 
--   Product owner for all compose related experiences in Outlook.com. I
-    transitioned the core experience with the Hotmail to Outlook.com
-    redesign, and modernized the files and attachment experiences.
-    Collaborated with other mail teams to create a unified experience
-    and helped define our design system for the web.
--   Product owner for power user features such as Sweep and Rules for
-    automatically managing emails.
--   Performed human factors work such as app animations and interaction
-    models for contact picker, keyboard shortcuts and message list
-    selection.
--   Collaborated extensively with Research and Design to prototype
-    opportunities for lightweight apps in the Office 365 ecosystem.
--   Product owner for Twist, a reply-based photo app targeted at teens,
-    working across research, design, engineering, legal and marketing
-    from start to launch.
+Worked on shipping new and refining existing features such as Sweep,
+Advanced Rules, keyboard shortcuts, animations and message list
+selection for Outlook.com.
+
+Product owner for Twist, a Microsoft Garage app focused on creative
+communications using photos. I led the effort from conception to launch,
+across research, design, engineering, legal, voice and marketing.
+
+
+Design Lead
+
+_MHCI Capstone Project with SRI, Jan 2011 - Aug 2011_
+
+Worked on a team of four MHCI students to understand how students in AP
+Biology classes study the subject and designed an iPad app utilizing
+SRI's AI technology to improve learning outcomes.
 
 
 IT Specialist
 
 _IBM, Aug 2008 - July 2010_
 
-I joined IBM straight out of college and got a great education in
-software engineering there. I had an opportunity to work on both low
-level device drivers and user interfaces. Ultimately, an opportunity to
-both design and develop a customer facing app on a touch screen kiosk
-kindled my love for UX.
-
-
-Freelance
-
-_Since 2000_
-
-Freelanced for various companies including Universities and a new
-Augmented Reality startup in the Bay Area. Work included digital and
-print design and web and mobile development.
+Worked on a custom enterprise project with the largest
+telecommiunications company in South East Asia. This includes building
+low-level device drivers for kiosks, web applications to help members of
+staff process customer inquiries and applications on kiosks that help
+customers self-service and check-in at the business's retail locations.
 
 
 
@@ -94,7 +99,7 @@ Masters in Human-Computer Interaction
 _Carnegie-Mellon University, 2011_
 
 
-B.Eng (Hons) in Electrical Engineering
+B.Eng (Honors) in Electrical Engineering
 
 _National University of Singapore, 2008_
 
@@ -108,7 +113,7 @@ AWARDS
 _Oct 2010_
 
 
-Winning team, Microsoft Firenze BXT competition
+1st place, Microsoft Firenze BXT competition
 
 _March 2011_
 
@@ -120,4 +125,4 @@ SKILLS
 Ethnographic research, human-centered design, idea generation, wireframe
 development, visual design, usability testing, product management,
 prototyping (paper and digital), HTML+CSS, Javascript, Swift,
-Objective-C.
+Objective-C, React, Java.

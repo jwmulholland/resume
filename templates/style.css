@@ -84,12 +84,15 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1.25em; 
     margin-top: 0;
     margin-bottom: 0.25em;
+    white-space: nowrap;
 }
 
 .detail p:first-of-type {
-    display: inline-block;
+    display: inline-block;    
     color: #a1a9ad;
     margin-left: 1em;
     margin-top: 0;
     margin-bottom: 0em;
+    overflow: visible;
+    white-space: nowrap;
 }

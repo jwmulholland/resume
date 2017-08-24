@@ -1,49 +1,85 @@
 # Chong Han Chua
-E: johncch@outlook.com
-P: +1 (412) 519-2749
-W: fifthrevision.com
+* johncch@outlook.com
+* +1 (412) 519-2749
+* fifthrevision.com
 
 # Hello
-I am passionate about building great products. I have more than 5 years of experience managing and building web and mobile products.
+I am a design technologist passionate about building products that people love. 
+I have more than 9 years of experience managing and building web and mobile products.
 
-# My experience 
-## Co-founder and Product
-*Echlo, Since Jan 2016*
+# Experience
 
-	We make Pulse – an iOS app that uses location to make finding friends and going out easy. The product was developed off a core idea and iterated on with a small group of users. I designed all the brand, UI and UX elements, and implemented the UI for the iOS app in Swift. I created a reusable CSS library and implemented the web apps in React, and created all public facing websites the company and product.
+## Self-employed {.detail}
+*Freelance, since May 2017*
 
-## Senior Program Manager
+Worked as a design consultant for Escher Reality, a Y-Combinator backed start-up 
+making Augmented Reality (AR) SDKs. Besides creating the brand identity, website
+and other collateral, I designed single and multiuser AR experiences for mobile
+using Unity showcasing the company's technology.
+
+Designed and built animations for an LED matrix display (in Arduino) for a 
+start-up working on a yet-to-be launched Internet of Things (IOT) device. Worked with 
+a team of consultants to use human-centered design methods to design a business
+strategy for a major US telecommunications company.
+ 
+## Co-founder, Product and Experience {.detail}
+*Echlo, since Jan 2016*
+
+Co-founded and developed a product on the idea that location data is always
+available on mobile and can be used to help people find and meet up with friends
+and family more easily and frequently. Created the product plan, market tested 
+and iterated with a set of test users. Designed all the brand, UI and UX elements 
+and implemented the iOS and web applications.
+
+## Senior Program Manager {.detail}
 *Microsoft, Oct 2011 - Dec 2015*
 
-I was the product owner for all compose related experiences in Outlook.com. I transitioned the core experience with the Hotmail to Outlook.com redesign, and modernized the files and attachment experiences. I worked in tandem with other mail teams to create a unified experience and helped define our design language for web apps. I was also the product owner for the key marketing feature Sweep and other mailbox management tools such as Rules.
+Product owner for all Compose-related experiences in Outlook.com. I updated and
+improved the core experience with the Hotmail to Outlook.com redesign, modernized 
+file attachments, rich text editor and added OneDrive integration. Collaborated 
+with other teams to create a cross platform experience and to define the design 
+system for Microsoft online services.
 
-I am proud of the human factors work such as app animations and interaction models for contact picker, keyboard shortcuts and message list selection. I have strong working relationship with user research. It is important to validate all proposed work with prototypes before the team commits to it.
+Worked on shipping new and refining existing features such as Sweep, Advanced 
+Rules, keyboard shortcuts, animations and message list selection for Outlook.com. 
 
-Later, I collaborated extensively with Research and Design to prototype opportunities for lightweight apps in the Office 365 ecosystem. I was the product owner for Twist, a reply-based photo app, working across research, design, engineering, legal and marketing, from zero to launch.
+Product owner for Twist, a Microsoft Garage app focused on creative communications
+using photos. I led the effort from conception to launch, across research, design, 
+engineering, legal, voice and marketing.
 
-## IT Specialist
+## Design Lead {.detail}
+*MHCI Capstone Project with SRI, Jan 2011 - Aug 2011*
+
+Worked on a team of four MHCI students to understand how students in AP Biology
+classes study the subject and designed an iPad app utilizing SRI's AI technology 
+to improve learning outcomes.
+
+## IT Specialist {.detail}
 *IBM, Aug 2008 - July 2010*
 
-I joined IBM straight out of college and got a great education in software engineering there. I had an opportunity to work on both low level device drivers and user interfaces. Ultimately, an opportunity to both design and develop a customer facing app on a touch screen kiosk kindled my love for UX.
+Worked on a custom enterprise project with the largest telecommiunications 
+company in South East Asia. This includes building low-level device drivers for 
+kiosks, web applications to help members of staff process customer inquiries and 
+applications on kiosks that help customers self-service and check-in at the 
+business's retail locations.
 
-## Freelance work
-*Since 2000*
+# Education
 
-I've done various print, digital and web development work for organizations from amateur improv groups to startups.
-
-# My education
-## Masters in Human-Computer Interaction
+## Masters in Human-Computer Interaction {.detail}
 *Carnegie-Mellon University, 2011*
 
-## B.Eng (Hons) in Electrical Engineering
+## B.Eng (Honors) in Electrical Engineering {.detail}
 *National University of Singapore, 2008*
 
-# Awards, for fun
-## 1st place, Yahoo! HackU at CMU 
+# Awards
+## 1st place, Yahoo! HackU at CMU {.detail}
 *Oct 2010*
 
-## Winning team, Microsoft Firenze BXT competition
+## 1st place, Microsoft Firenze BXT competition {.detail}
 *March 2011*
 
-# I'm proficient at
-Rapid prototyping, user interviews, concept generation, Illustrator, Sketch, HTML+CSS, Javascript, Swift, Objec-tive-C.
+# Skills
+
+Ethnographic research, human-centered design, idea generation, wireframe development, 
+visual design, usability testing, product management, prototyping (paper and digital), 
+HTML+CSS, Javascript, Swift, Objective-C, React, Java.
