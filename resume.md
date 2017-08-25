@@ -26,19 +26,19 @@ strategy for a major US telecommunications company.
 *Echlo, since Jan 2016*
 
 Co-founded and developed a product on the idea that location data is always
-available on mobile and can be used to help people find and meet up with friends
-and family more easily and frequently. Created the product plan, market tested 
-and iterated with a set of test users. Designed all the brand, UI and UX elements 
-and implemented the iOS and web applications.
+available on mobile and can be used to help people more easily and frequently 
+find and meet up with friends and family. Created the product plan, market tested 
+and iterated the product  with a set of test users. Designed all the brand, UI 
+and UX elements and implemented the iOS and web applications.
 
 ## Senior Program Manager {.detail}
 *Microsoft, Oct 2011 - Dec 2015*
 
 Product owner for all Compose-related experiences in Outlook.com. I updated and
-improved the core experience with the Hotmail to Outlook.com redesign, modernized 
-file attachments, rich text editor and added OneDrive integration. Collaborated 
-with other teams to create a cross platform experience and to define the design 
-system for Microsoft online services.
+improved the core experience for the Hotmail to Outlook.com redesign, modernized 
+file attachments, improved the rich text editor and added OneDrive integration. 
+Collaborated with other teams to create a cross platform experience and define 
+the design system for Microsoft online services.
 
 Worked on shipping new and refining existing features such as Sweep, Advanced 
 Rules, keyboard shortcuts, animations and message list selection for Outlook.com. 
@@ -59,9 +59,8 @@ to improve learning outcomes.
 
 Worked on a custom enterprise project with the largest telecommiunications 
 company in South East Asia. This includes building low-level device drivers for 
-kiosks, web applications to help members of staff process customer inquiries and 
-applications on kiosks that help customers self-service and check-in at the 
-business's retail locations.
+kiosks, web applications to help staff process customer inquiries and kiosk
+applications that help customers self-service at the business's retail locations.
 
 # Education
 
