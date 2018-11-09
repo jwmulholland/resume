@@ -6,14 +6,14 @@ html {
 body {
     padding: 0.5em;
     font-family: "adelle pe", sans-serif;
-    font-size: 16pt;
-    line-height: 1.4em;
+    font-size: 16px;
+    line-height: 1.5em;
     color: #444;
 }
 
 p {
     margin-top: 0.3em;
-    margin-bottom: 1em;
+    margin-bottom: 0.7em;
 }
 
 ul {
@@ -35,7 +35,7 @@ section.level1 h1 {
 }
 
 section.level1 .level2, section.level1>p {
-    margin-left: 350px;
+    margin-left: 180px;
 }
 
 section.level1 {
@@ -76,21 +76,22 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0em;
 }
 
-.detail {
-    margin-bottom: 0.7em;
+a {
+    text-decoration: none;
+    color: #2152C4;
 }
 
-.detail h2 {
+h2 {
     font-size: 1.25em; 
     margin-top: 0;
     margin-bottom: 0.25em;
     white-space: nowrap;
 }
 
-.detail p:first-of-type {
+h2 + p:first-of-type {
     display: inline-block;    
     color: #a1a9ad;
-    margin-left: 1em;
+    margin-left: 0.8em;
     margin-top: 0;
     margin-bottom: 0em;
     overflow: visible;
