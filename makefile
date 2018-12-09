@@ -9,7 +9,7 @@ all: resume.pdf resume.txt resume.html resume.docx resume.tex
 	pandoc $(FILE) -f markdown -t plain -o output/$@
 
 %.html:
-	pandoc $(FILE) -t html5 -c ../templates/style.css --section-divs -o output/$@ 
+	pandoc $(FILE) -f markdown -t html -c templates/style.css --section-divs -o output/$@ --self-contained
 
 %.docx:
 	pandoc $(FILE) -o output/$@
