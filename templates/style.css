@@ -31,11 +31,11 @@ li {
 }
 
 section.level1 h1 {
-  font-size: 1.25em;
+  font-size: 1.1em;
   margin-top: 0;
   margin-bottom: 0.3em;
   float: left;
-  color: #a1a9ad;
+  color: #909090;
 }
 
 section.level1 .level2,
@@ -94,15 +94,15 @@ a {
 }
 
 h2 {
-  font-size: 1.25em;
+  font-size: 1.1em;
   margin-top: 0;
-  margin-bottom: 0.25em;
+  margin-bottom: 0.2em;
   white-space: nowrap;
 }
 
 h2 + p:first-of-type {
   display: inline-block;
-  color: #a1a9ad;
+  color: #909090;
   margin-left: 0.8em;
   margin-top: 0;
   margin-bottom: 0em;
