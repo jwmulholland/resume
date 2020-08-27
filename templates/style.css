@@ -1,5 +1,7 @@
-html {
+html,
+body {
   margin: 0;
+  padding: 0;
   height: auto;
   font-family: "adelle pe", sans-serif;
   font-size: 15px;
@@ -27,7 +29,7 @@ ul {
 li {
   padding-left: 0em;
   margin-bottom: 0.2em;
-  margin-left: 0;
+  margin-left: 0em;
 }
 
 section.level1 h1 {
@@ -44,7 +46,7 @@ section.level1 > p {
 }
 
 section.level1 {
-  margin-bottom: 1.5em;
+  margin-bottom: 1em;
 }
 
 section.level2 {
@@ -52,7 +54,7 @@ section.level2 {
 }
 
 #chong-han-chua {
-  margin-bottom: 2.3em;
+  margin-bottom: 1.5em;
 }
 
 #chong-han-chua h1 {
@@ -108,4 +110,13 @@ h2 + p:first-of-type {
   margin-bottom: 0em;
   overflow: visible;
   white-space: nowrap;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+table td:first-of-type {
+  width: 20px;
 }

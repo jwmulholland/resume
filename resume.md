@@ -1,59 +1,62 @@
 # Chong Han Chua
 
-- c: [johncch@outlook.com](mailto:johncch@outlook.com) / +1 (412) 519-2749
-- w: [https://fifthrevision.com](https://fifthrevision.com)
-- g: [https://github.com/johncch](https://github.com/johncch)
+|     |                                                                       |
+| --- | --------------------------------------------------------------------- |
+| c   | [johncch@outlook.com](mailto:johncch@outlook.com) / +1 (412) 519-2749 |
+| w   | [https://fifthrevision.com](https://fifthrevision.com)                |
+| g   | [https://github.com/johncch](https://github.com/johncch)              |
 
 # Hello
 
-I've spent 10+ years managing, building, and launching web and mobile products. I believe successful products come from user empathy, market positioning, and cross-functional collaboration.
+I have 12+ years of experience leading and managing new product innovation focusing on Design and UX.
 
 # Experience
 
-## Product Designer (1st Design Hire)
+## Head of Digital Experience
 
-_Honeycomb, since Oct 2017_
+_Advanced MedTech, May 2019–Present_
 
-[Honeycomb](https://www.honeycomb.io) is a data visualization devops tool for developers to debug software services in production.
+- Part of the Extended Senior Leadership Team, reporting to CEO, advising on all digital-related matters and exploring new digital opportunities.
+- Built strategy and tactical roadmap for digital health opportunities based on extensive ethnography conducted on key patient population and stakeholders; collaborated across orgs to run pilot programs.
+- Led the shift from in person to digital marketing in response to COVID-19, hired a 7-person team; collaborated with regional marketing teams worldwide.
 
-- Redesigned entire product for competitive and strategic advancements by listening to developers and analyzing the market. Users found the new design "clean" and "easy to use" despite complex workflows.
-- Revamped user onboarding experiences, leading to reduced time to first value for new trials.
-- Established design function for a technically-oriented, developer focused product. Led brand and product design vision, and collaborated with engineering and go-to-market teams on design support, feature launches, and working processes.
-- Built credibility and brand equity with target audience by focused updates to brand and visual design.
+## Product Design Lead
+
+_Honeycomb, Oct 2017–April 2019_
+
+Honeycomb provides observability to modern dev teams to understand and debug production systems.
+
+- Redesigned product, IA and UI to advance observability use cases for teams, expanding from just queries to multiple feature areas and incorporating collaboration semantics into the product.
+- Revamped user onboarding experiences—walking through a very technical product setup to reduce time-to-first value for new trials—to achieve self-serve business objectives.
 
 ## CEO & Co-founder (Product development)
 
-_Echlo, Jan 2016 - Oct 2017_
+_Echlo, Jan 2016–Oct 2017_
 
-Echlo was an exploration into productizing real-time geolocation. Our first app was &nbsp;[Pulse](https://itunes.apple.com/us/app/pulse-find-where-your-friends/id1118545595?ls=1&mt=8).
+Echlo explores productizing real-time geolocation. Our first app was Pulse.
 
-- Designed, built and launched a multi-user, concurrent, persistent, location sharing mobile and web app in Swift and React. The app was designed to be always on with minimal battery use. We achieved this using multiple strategies to acquire and cache the most useful, least expensive location.
-- Guided the product strategy from initial conception to later market search efforts by talking to users and tracking user engagement metrics.
+- Designed, built and launched a multi-user, concurrent, persistent, location sharing mobile and web app in Swift and React. The app was designed to be always on with minimal battery use, achieved using a deep exploration into and understanding of the iOS tech stack.
+- Guided the product strategy from initial conception to later market search efforts using both qualitative and quantitative user research methods.
 
 ## Senior PM (Product & UX)
 
-_Microsoft, Oct 2011 - Dec 2015_
+_Microsoft, Oct 2011–Dec 2015_
 
-- Core member of the Outlook Web PM team working on an email service for 300M+ users.
-- Worked on the Hotmail to &nbsp;[Outlook.com redesign](https://www.microsoft.com/en-us/microsoft-365/blog/2012/07/31/introducing-outlook-com-modern-email-for-the-next-billion-mailboxes/). Responsible for web mail features, including compose, files, design and inbox management, elements still present in current product.
-- Unified Microsoft mail UX through constant syncs and collaborations across teams and organizations.
-- Led efforts to research, generate and develop mobile strategy and app ideas in an executive push for more mobile presence in Office 365.
-- Led end-to-end product effort and engineering team for &nbsp;[Twist](https://news.microsoft.com/features/twist-a-new-microsoft-garage-app-encourages-creative-group-photo-banter/). This was a labs project to explore fun, social photo communications. Drove research, planning, roadmap, and vision, partnering with stakeholders to bring the product from conception to launch in the iOS App Store.
+- One of few PMs working on UX, touching every product and feature from Inbox, to Sweep, to Compose. Worked on the Hotmail to Outlook.com redesign; eventually in the unification of email products, the Outlook.com UX became the defacto experience.
+- Led efforts to research, generate and develop mobile strategy and app ideas in an executive push for a mobile application strategy in Office 365.
+- Led end-to-end product effort and engineering team for Twist. This was a labs project to explore fun, social photo communications. Drove research, planning, roadmap, and vision, partnering with stakeholders to bring the product from conception to launch in the iOS App Store.
 
 ## Software Engineer
 
-_IBM, Aug 2008 - July 2010_
+_IBM, Aug 2008–July 2010_
 
-- Designed and built software in C++, Java and JS on project for the largest &nbsp;&nbsp;[telco company](https://www.retailcustomerexperience.com/news/singtel-flagship-store-sets-the-bar-for-an-interactive-retail-experience/) in Singapore delivering software for browsers and touch-screen kiosks in the flagship store.
+- Designed and built software in C++, Java and JS on project for the largest telco company in Singapore delivering software for browsers and touch-screen kiosks in the flagship store.
 
 ## Contract Design, Strategy, Development
 
-_Self-employed, Since 2000_
+_Self-employed, 2000–Present_
 
-I executed design, development, and strategy work for clients of all sizes. Recent projects include:
-
-- Consulted for [Escher Reality](http://www.escherreality.com), a YC-funded Augmented Reality (AR) startup (acquired). Designed logo, built single and multi-user AR experiences in Unity and authored AR Human Interface Guidelines.
-- Designed and built a UI spec through a 13 by 3 LED matrix for the smart water IOT company &nbsp;[Phyn](https://phyn.com).
+- Executed design, dev, and strategy work for clients of all sizes. Most recently, design advisor to Escher Reality, a YC-funded Augmented Reality (AR) startup (acquired by Niantic, 2017). Developed brand and identity, led UX for AR, and designed and built single and multiplayer AR experiences.
 
 # Education
 
@@ -61,7 +64,7 @@ I executed design, development, and strategy work for clients of all sizes. Rece
 
 _Carnegie-Mellon University, 2011_
 
-1st place, Microsoft Firenze BXT competition. 1st place, Yahoo! HackU CMU.
+- 1st place, Microsoft Firenze BXT competition. 1st place, Yahoo! HackU CMU.
 
 ## B.Eng (Hons.) in Electrical Engineering
 
