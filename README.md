@@ -6,6 +6,12 @@ After wrangling the résumé in InDesign for many years, I've decided to store m
 
 No reason why you might, but if you are, this repo is MIT Licensed.
 
+Here’s my resume repository online: https://github.com/johncch/resume
+
+The repo has a makefile in it, so the commands to build are in there. If you have make and pandoc (https://pandoc.org/) installed you can just type make in the project folder inside terminal to run it.
+
+I guess my resume doesn’t actually use custom stylings, but this is what I’m talking about: https://kramdown.gettalong.org/quickref.html
+
 ## License
 
 Copyright (c) 2017 Chong Han Chua
