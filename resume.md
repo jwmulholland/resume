@@ -2,9 +2,9 @@
 
 |     |                                                                       |
 | --- | --------------------------------------------------------------------- |
-| email   | [jwmulholland@gmail.com](mailto:jwmulholland@gmail.com) |
-| web   | [jamesmulhol.land](https://fifthrevision.com)                |
-| phone | 651. 308.4488 |
+| `email`   | [jwmulholland@gmail.com](mailto:jwmulholland@gmail.com) |
+| `web`   | [http://jamesmulhol.land](https://fifthrevision.com)                |
+| `phone` | 651. 308.4488 |
 
 # About Me
 
