@@ -1,16 +1,18 @@
 # Hello!
 
-This is the repository for my résumé. If you're looking for my résumé, [here's the pdf version](https://github.com/johncch/resume/blob/master/output/resume.pdf)
+This is the repository for my résumé. If you're looking for my résumé, [here's the pdf version](https://github.com/jwmulholland/resume/blob/master/output/resume.pdf)
 
-After wrangling the résumé in InDesign for many years, I've decided to store my résumé in markdown and convert into different formats as needed. If you're recruiting and asking me for a specific format of my résumé, then this is where the magic happens.
+~~After wrangling the résumé in InDesign for many years, I've decided to store my résumé in markdown and convert into different formats as needed. If you're recruiting and asking me for a specific format of my résumé, then this is where the magic happens.~~
 
 No reason why you might, but if you are, this repo is MIT Licensed.
 
-Here’s my resume repository online: https://github.com/johncch/resume
+Here’s my resume repository online: https://github.com/jwmulholland/resume
 
 The repo has a makefile in it, so the commands to build are in there. If you have make and pandoc (https://pandoc.org/) installed you can just type make in the project folder inside terminal to run it.
 
 I guess my resume doesn’t actually use custom stylings, but this is what I’m talking about: https://kramdown.gettalong.org/quickref.html
+
+Forked from [https://github.com/johncch/resume](https://github.com/johncch/resume)
 
 ## License
 

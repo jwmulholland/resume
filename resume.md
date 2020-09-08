@@ -1,62 +1,87 @@
-# Chong Han Chua
+# James Mulholland
 
 |     |                                                                       |
 | --- | --------------------------------------------------------------------- |
-| c   | [johncch@outlook.com](mailto:johncch@outlook.com) / +1 (412) 519-2749 |
-| w   | [https://fifthrevision.com](https://fifthrevision.com)                |
-| g   | [https://github.com/johncch](https://github.com/johncch)              |
+| email   | [jwmulholland@gmail.com](mailto:jwmulholland@gmail.com) |
+| web   | [jamesmulhol.land](https://fifthrevision.com)                |
+| phone | 651. 308.4488 |
 
-# Hello
+# About Me
 
-I have 12+ years of experience leading and managing new product innovation focusing on Design and UX.
+I have over 10 years of industry experience delivering quality software in complex domains. 
 
-# Experience
+at startups to large 
 
-## Head of Digital Experience
+Compelled by complex and high-level problem solving, my strengths lie in strategic and analytical thinking.
 
-_Advanced MedTech, May 2019–Present_
+# Workday
 
-- Part of the Extended Senior Leadership Team, reporting to CEO, advising on all digital-related matters and exploring new digital opportunities.
-- Built strategy and tactical roadmap for digital health opportunities based on extensive ethnography conducted on key patient population and stakeholders; collaborated across orgs to run pilot programs.
-- Led the shift from in person to digital marketing in response to COVID-19, hired a 7-person team; collaborated with regional marketing teams worldwide.
+## Product Design Architect
 
-## Product Design Lead
+_Jan 2020–Present_
 
-_Honeycomb, Oct 2017–April 2019_
+- Leading early stage efforts for design discovery in new product areas, architectural changes, and complex problems
+- Leading efforts to define new directions for product vision
+- Providing early stage response to critical experience questions or issues
+- Estimating impact to existing concepts when refactoring or introducing new concepts
+- Creating viable definition of design problems, handing off for teams to dive deeper and build
+- Offering strategies to break down further design work, considering release timing, bundling of efforts, team structure and expertise
+- Collecting and curating interaction patterns, advising on use
+- Consulting across Workday for various strategic projects
+- Collaborating with org managers to develop team processes
+- Mentoring Sr. Designers and Researchers
 
-Honeycomb provides observability to modern dev teams to understand and debug production systems.
+## Principal Product Designer
 
-- Redesigned product, IA and UI to advance observability use cases for teams, expanding from just queries to multiple feature areas and incorporating collaboration semantics into the product.
-- Revamped user onboarding experiences—walking through a very technical product setup to reduce time-to-first value for new trials—to achieve self-serve business objectives.
+_Oct 2018–Dec 2019_
 
-## CEO & Co-founder (Product development)
+- Senior leader for design practice: leading most early stage projects, running design critiques, defining and refining our design process
+- Aiding product managers and chief technical architects in concept development
+- Structuring team’s workload while balancing strengths and motivations
+- Mentoring other designers in craft and process
 
-_Echlo, Jan 2016–Oct 2017_
+## Sr. Manager, User Experience
 
-Echlo explores productizing real-time geolocation. Our first app was Pulse.
+_Aug 2016–Sep 2018_
 
-- Designed, built and launched a multi-user, concurrent, persistent, location sharing mobile and web app in Swift and React. The app was designed to be always on with minimal battery use, achieved using a deep exploration into and understanding of the iOS tech stack.
-- Guided the product strategy from initial conception to later market search efforts using both qualitative and quantitative user research methods.
+- Grew team from 3 to 8 across three disciplines: design, research, and writing (documentation)
+- Established UX as a product influencers, giving them agency in product teams and a collective 'seat at the table'
+- Responsible for managing UX of *all* the analytics platform capabilities including two new product lines: Prism Analytics and Analytic Applications
+- Guided post-acquisition adoption/adaptation of interaction and visual design language
+- Paid back design debt by revising conceptual model, clarifying language and defining repeated UI patterns
+- Positioned designers and researchers as indispensable partners in the product vision process (Design helps guide the product definition from object model to UI copy)
+- Maintained close integration with delivery teams, while promoting pragmatism for delivery while maintaining standards of quality
+- Part of team to define Agile approach including product dev milestones, re-design scrum structure.
 
-## Senior PM (Product & UX)
+# Platfora
 
-_Microsoft, Oct 2011–Dec 2015_
+acquired by Workday, Aug 2016
 
-- One of few PMs working on UX, touching every product and feature from Inbox, to Sweep, to Compose. Worked on the Hotmail to Outlook.com redesign; eventually in the unification of email products, the Outlook.com UX became the defacto experience.
-- Led efforts to research, generate and develop mobile strategy and app ideas in an executive push for a mobile application strategy in Office 365.
-- Led end-to-end product effort and engineering team for Twist. This was a labs project to explore fun, social photo communications. Drove research, planning, roadmap, and vision, partnering with stakeholders to bring the product from conception to launch in the iOS App Store.
+## Manager, UX Design and Research, 
 
-## Software Engineer
+_Apr 2016–Aug 2016_
 
-_IBM, Aug 2008–July 2010_
+- Managing product design and research efforts for a complex technical platform (3 designers and 1 researcher)
+- Continuing to fill-in design efforts as needed for data visualization and cross-platform features
+- Developing product experience strategy, including guiding principles
+- Directing project to develop content strategy to guide and inform new users to the platform
+- Developing a practice of “Design Studio” to develop a critique culture, coordinate team efforts
 
-- Designed and built software in C++, Java and JS on project for the largest telco company in Singapore delivering software for browsers and touch-screen kiosks in the flagship store.
+## Senior Interaction Designer
 
-## Contract Design, Strategy, Development
+_Mar 2014–Apr 2016_
 
-_Self-employed, 2000–Present_
-
-- Executed design, dev, and strategy work for clients of all sizes. Most recently, design advisor to Escher Reality, a YC-funded Augmented Reality (AR) startup (acquired by Niantic, 2017). Developed brand and identity, led UX for AR, and designed and built single and multiplayer AR experiences.
+- Redesigned entire data visualization system, from creation and analysis interactions to visual aesthetics while envisioning future capabilities
+- Designed novel “flow” visualizations combining concepts of flow diagrams with parallel sets and coordinates expanding our existing interaction model
+- Directed research to leverage Kano model to improve the process for usability improvements, published poster to ACM SIGCHI 2016
+- Created and ran “UX workshop” to evangelize the design team’s work and offer formal setting to gather cross-departmental input / and expose the design process and existing projects
+- Developed and maintained a wiki resource to store all data from informal and formal research while involving external facing teams to extend the ‘eyes and ears’ of the UX team
+- Served as Scrum-master for analytics team, shipping quality projects on time
+- Provided primary vision for data pipeline and data analysis/visualization areas of the product.
+- Developed competency of mapping and cartography, event-series analytics, complex data structures and visualization techniques
+- Working closely with backend team, connected data structure requirements and interactions to ensure simple UX for complex location data could be achieved
+- Applied cartographic principles to create an aesthetically pleasing map layer
+- Served as Scrum Master for analytics team, shipping quality projects on time
 
 # Education
 
@@ -64,8 +89,12 @@ _Self-employed, 2000–Present_
 
 _Carnegie-Mellon University, 2011_
 
-- 1st place, Microsoft Firenze BXT competition. 1st place, Yahoo! HackU CMU.
+######  Focus Areas
+developing creative process, generative research methods, multi-modal interactions, complex information visualization, motion design
 
-## B.Eng (Hons.) in Electrical Engineering
+## Bachelor of Arts, Business Administration
 
-_National University of Singapore, 2008_
+_Illinois Wesleyan University, 2006_
+
+- Marketing and Graphic Design Concentrations, Japanese Studies Minor.
+- Senior level design courses, cross-disciplinary focus on design strategy and brand identity

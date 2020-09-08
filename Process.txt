@@ -1,0 +1,6 @@
+# Process
+
+- [ ] Revise and personalize README
+- [ ] Edit Resume content
+- [ ] Update Resume Style
+- [ ] Test Build
