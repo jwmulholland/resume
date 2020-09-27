@@ -20,9 +20,20 @@ To build, when in the directory, run:
 pandoc resume.md -o resume.pdf
 ```
 
+or simply just the make command to utilize the setup in the makefile
+
+```
+make
+```
+
+
+Will require installation of additional library resources:
+- [WK HTML to PDF](https://wkhtmltopdf.org/downloads.html)
+- [BasicTeX](http://www.tug.org/mactex/morepackages.html)
+
 ## License
 
-Copyright (c) 2017 Chong Han Chua
+Copyright (c) 2020 James Mulholland
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
